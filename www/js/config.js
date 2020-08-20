@@ -9,7 +9,7 @@ var url_auth =  'fer/apitoken/cria_token.php';
 
 var server_action = server + 'testeretorno.php';
 
-var idonesignal = "4c03d205-c832-43ba-b816-c850b8773f04";
+var idonesignal = "07141394-fa5d-42c1-ace8-f0680d1d3edd";
 var debug = 0 ;
 
 var controle_mensagem_atualizar = 1;
